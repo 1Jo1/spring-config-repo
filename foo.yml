@@ -1,0 +1,2 @@
+foo: from foo default
+democonfigclient.message: hello from default foo
